@@ -5,6 +5,12 @@ https://github.com/BroadleafCommerce/BroadleafCommerce
 
 https://stackshare.io/
 
+#### Kogito Examples
+https://github.com/kiegroup/kogito-examples
+
+#### Docker Commands Help
+https://www.exoscale.com/syslog/setup-private-docker-registry/
+
 #### Online Java compiler that supoorts third party libs
 https://www.jdoodle.com/online-java-compiler/
 
