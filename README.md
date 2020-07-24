@@ -6,6 +6,9 @@ https://github.com/BroadleafCommerce/BroadleafCommerce
 #### Microservices links
 https://github.com/mfornos/awesome-microservices
 
+#### Angular
+https://ultimatecourses.com/blog/angular-dynamic-components-forms
+
 https://stackshare.io/
 
 #### Kogito Examples
