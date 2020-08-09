@@ -14,6 +14,9 @@ https://ultimatecourses.com/blog/angular-dynamic-components-forms
 
 https://stackshare.io/
 
+#### Quarkus
+https://eldermoraes.com/5-design-patterns-for-microservices-with-quarkus-and-microprofile/
+
 #### Kogito Examples
 https://github.com/kiegroup/kogito-examples
 
