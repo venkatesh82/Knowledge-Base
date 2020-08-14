@@ -15,6 +15,8 @@ https://www.baeldung.com/spring-cloud-kubernetes
 
 https://dzone.com/articles/quick-guide-to-microservices-with-kubernetes-sprin
 
+https://github.com/piomin/sample-spring-microservices-kubernetes/tree/hybrid
+
 #### Git
 https://www.datacamp.com/community/tutorials/git-push-pull
 
