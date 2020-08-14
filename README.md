@@ -17,6 +17,9 @@ https://dzone.com/articles/quick-guide-to-microservices-with-kubernetes-sprin
 
 https://github.com/piomin/sample-spring-microservices-kubernetes/tree/hybrid
 
+-- Beware with load balancing with eureka as it is in maintenance mode by spring. Instead use below one for load balancing
+https://spring.io/blog/2020/03/25/spring-tips-spring-cloud-loadbalancer
+
 #### Git
 https://www.datacamp.com/community/tutorials/git-push-pull
 
