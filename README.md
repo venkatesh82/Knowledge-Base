@@ -13,6 +13,8 @@ https://learnk8s.io/spring-boot-kubernetes-guide
 
 https://www.baeldung.com/spring-cloud-kubernetes
 
+https://dzone.com/articles/quick-guide-to-microservices-with-kubernetes-sprin
+
 #### Git
 https://www.datacamp.com/community/tutorials/git-push-pull
 
