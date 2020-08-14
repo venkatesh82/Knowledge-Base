@@ -6,6 +6,9 @@ https://github.com/BroadleafCommerce/BroadleafCommerce
 #### Microservices links
 https://github.com/mfornos/awesome-microservices
 
+#### Kubernetes
+https://medium.com/the-resonant-web/kubernetes-in-practice-part-2-2d2a7290dd65
+
 #### Git
 https://www.datacamp.com/community/tutorials/git-push-pull
 
