@@ -9,6 +9,7 @@ https://github.com/mfornos/awesome-microservices
 #### Kubernetes
 https://medium.com/the-resonant-web/kubernetes-in-practice-part-2-2d2a7290dd65
 https://learnk8s.io/spring-boot-kubernetes-guide
+https://www.baeldung.com/spring-cloud-kubernetes
 
 #### Git
 https://www.datacamp.com/community/tutorials/git-push-pull
