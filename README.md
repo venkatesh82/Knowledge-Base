@@ -11,6 +11,8 @@ https://medium.com/the-resonant-web/kubernetes-in-practice-part-2-2d2a7290dd65
 
 https://piotrminkowski.com/2019/12/20/microservices-with-spring-cloud-kubernetes/
 
+https://piotrminkowski.com/2018/08/02/quick-guide-to-microservices-with-kubernetes-spring-boot-2-0-and-docker/
+
 https://learnk8s.io/spring-boot-kubernetes-guide
 
 https://www.baeldung.com/spring-cloud-kubernetes
