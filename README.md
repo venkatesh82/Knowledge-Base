@@ -13,6 +13,9 @@ https://programmerfriend.com/ultimate-guide-to-redis-cache-with-spring-boot-2-an
 https://github.com/mfornos/awesome-microservices
 
 #### Kubernetes
+
+https://www.freecodecamp.org/news/jhipster-microservices-with-istio-service-mesh-on-kubernetes-a7d0158ba9a3/
+
 https://medium.com/the-resonant-web/kubernetes-in-practice-part-2-2d2a7290dd65
 
 https://piotrminkowski.com/2019/12/20/microservices-with-spring-cloud-kubernetes/
