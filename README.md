@@ -14,6 +14,8 @@ https://github.com/mfornos/awesome-microservices
 
 #### Kubernetes
 
+https://kubernetes.io/docs/tutorials/hello-minikube/
+
 https://www.freecodecamp.org/news/jhipster-microservices-with-istio-service-mesh-on-kubernetes-a7d0158ba9a3/
 
 https://medium.com/the-resonant-web/kubernetes-in-practice-part-2-2d2a7290dd65
