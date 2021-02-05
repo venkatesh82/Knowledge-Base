@@ -1,5 +1,8 @@
 # Important links
 
+#### Request and Response Encryption and Decryption
+https://programmersought.com/article/41401163290/
+
 #### Spring Boot opensource commerce product
 https://github.com/BroadleafCommerce/BroadleafCommerce
 
