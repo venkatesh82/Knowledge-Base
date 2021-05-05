@@ -55,6 +55,12 @@ https://github.com/kiegroup/kogito-examples
 #### Docker Commands Help
 https://www.exoscale.com/syslog/setup-private-docker-registry/
 
+#### docker-compose installation
+wget https://github.com/docker/compose/releases/download/1.25.5/docker-compose-Linux-x86_64
+mv docker-compose-Linux-x86_64 /usr/bin/docker-compose
+chmod +x /usr/bin/docker-compose
+docker-compose --version
+
 #### Online Java compiler that supoorts third party libs
 https://www.jdoodle.com/online-java-compiler/
 
