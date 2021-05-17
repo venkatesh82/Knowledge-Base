@@ -41,6 +41,8 @@ https://spring.io/blog/2020/03/25/spring-tips-spring-cloud-loadbalancer
 #### Git
 https://www.datacamp.com/community/tutorials/git-push-pull
 
+http://confluence.sammeth.net/display/ASTA/fatal%3A+early+EOF+fatal%3A+index-pack+failed
+
 #### Angular
 https://ultimatecourses.com/blog/angular-dynamic-components-forms
 
