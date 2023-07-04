@@ -1,4 +1,7 @@
-| First Header  | Second Header |
+
+==Hotstar Techstack
+
+| Layer  | Components |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| CDN | Akmai |
+| Backend  | Node-JS(Fastify)  |
